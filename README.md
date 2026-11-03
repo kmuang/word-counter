@@ -1,2 +1,0 @@
-# word-counter
-Word Counter
